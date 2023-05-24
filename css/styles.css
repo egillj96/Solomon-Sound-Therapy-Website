@@ -39,16 +39,13 @@ li {
 /* fonts */
 
 h1 {
-  font: /* 4.375rem destop size */ bold calc(1.4em + 1vw) / 7vh "Philosopher",
-    sans-serif;
+  font: /* 4.375rem destop size */ bold calc(1.4em + 1vw) / 7vh "Philosopher", sans-serif;
 }
 h2 {
-  font: /* 3.125rem destop size */ bold calc(1.3em + 1vw) / 6vh "Philosopher",
-    sans-serif;
+  font: /* 3.125rem destop size */ bold calc(1.3em + 1vw) / 6vh "Philosopher", sans-serif;
 }
 h3 {
-  font: /* 2.187rem destop size */ bold calc(0.7em + 1vw) / 3vh "Philosopher",
-    sans-serif;
+  font: /* 2.187rem destop size */ bold calc(0.7em + 1vw) / 3vh "Philosopher", sans-serif;
 }
 p,
 li {
@@ -201,14 +198,11 @@ nav .fa-chevron-up {
   margin-top: 30px;
 }
 .container {
+  position: relative;
   display: grid;
   place-items: center;
   place-content: center;
-  background: radial-gradient(
-    50% 50% at 50% 50%,
-    #e89923 0%,
-    rgba(232, 153, 35, 0) 100%
-  );
+  background: radial-gradient(50% 50% at 50% 50%, #e89923 0%, rgba(232, 153, 35, 0) 100%);
 }
 .firstImg {
   width: 55vw;
@@ -217,6 +211,7 @@ nav .fa-chevron-up {
 }
 .secondImg {
   position: absolute;
+  bottom: 0%;
   justify-self: left;
   width: 33vw;
   border-radius: 250px 250px 0px 0px;
@@ -319,11 +314,7 @@ nav .fa-chevron-up {
   display: grid;
   place-items: center;
   place-content: center;
-  background: radial-gradient(
-    50% 50% at 50% 50%,
-    #e89923 0%,
-    rgba(232, 153, 35, 0) 100%
-  );
+  background: radial-gradient(50% 50% at 50% 50%, #e89923 0%, rgba(232, 153, 35, 0) 100%);
 }
 .thirdImg {
   max-width: 100%;
