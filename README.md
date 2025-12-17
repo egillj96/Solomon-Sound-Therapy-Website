@@ -62,8 +62,7 @@ This project reflects my early approach to combining **design thinking with fron
 
 ## 📸 Screenshots
 
-> _(Optional)_  
-> You can add screenshots or screen recordings here to visually showcase the site.
+<img width="1421" height="688" alt="Screenshot 2025-12-17 at 16 30 37" src="https://github.com/user-attachments/assets/c4cb898a-3003-49ba-8be0-d24e978c4501" />
 
 ---
 
