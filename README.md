@@ -1,9 +1,9 @@
-# Solomon Sound
+# Solomon Sound Therapy
 
 🔗 **Live site:** https://solomon-sound.vercel.app/
 
 **Solomon Sound** is a concept website designed and coded in **2023** as part of my studies in **Multimedia Design in Copenhagen**.  
-The project explores visual identity, layout, and interaction design for a modern music / sound-focused brand.
+The project explores visual identity, layout, and interaction design for a sound therapy brand.
 
 ---
 
@@ -19,7 +19,7 @@ The goal of this project was to:
 
 ## 🧠 Concept
 
-**Solomon Sound** represents a minimal, modern, and atmospheric approach to sound and music culture.  
+**Solomon Sound Therapy**
 The site focuses on:
 - Mood and identity over complexity
 - Clean visual hierarchy
